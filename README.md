@@ -1,4 +1,4 @@
-# Mall_Customer-Segmentation
+
 # Mall Customer Segmentation
 
 
